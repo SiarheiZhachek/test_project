@@ -1,8 +1,8 @@
 def one():
-    a = 5
-    b = 2
-    c = a + b
-    print(c)
+    a_num = 5
+    b_num = 2
+    c_num = a_num + b_num
+    print(c_num)
 
 
 one()
